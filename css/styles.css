@@ -50,6 +50,9 @@ ul {
 .link-nav .link-current {
   color: var(--accent-text-color);
 }
+.link {
+  text-decoration: none;
+}
 .contacts a {
   color: var(--title-text-color);
   text-decoration: none;
@@ -88,9 +91,7 @@ ul {
   background-color: var(--accent-text-color);
   color: var(--text-white-color);
 }
-.link {
-  text-decoration: none;
-}
+
 /* sections */
 
 .hero-title {
